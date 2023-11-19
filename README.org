@@ -5,8 +5,8 @@ PCA* project.
 If you have =devtools= package installed, you can use a single command
 in R:
 #+begin_src R
-  devtools::install_github(“ywwry66/Dimension-Reduction-
-                            for-QDA-via-supervised-PCA-R-Package”)
+  devtools::install_github("ywwry66/Dimension-Reduction-
+                            for-QDA-via-supervised-PCA-R-Package")
 #+end_src
 
 Otherwise, you should download the versioned tarball under Releases -
